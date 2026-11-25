@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d4cd-f9f5-7922-baa2-b414cb35c92d"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll generate one image using the three references and your scene details."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":51680,"cached_input_tokens":41984,"cache_write_input_tokens":0,"output_tokens":617,"reasoning_output_tokens":0}}

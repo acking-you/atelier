@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d4cd-5d84-7433-8551-e066dc55bd1b"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll use the image generation tool once, with all three references."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":51682,"cached_input_tokens":38144,"cache_write_input_tokens":0,"output_tokens":599,"reasoning_output_tokens":0}}

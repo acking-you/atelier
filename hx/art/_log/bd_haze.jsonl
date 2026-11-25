@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d4cd-0ad9-7e60-8b4c-2bfb88341854"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll create the earlier, cloud-closed scene using the three references.\n"}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":51714,"cached_input_tokens":42112,"cache_write_input_tokens":0,"output_tokens":654,"reasoning_output_tokens":0}}

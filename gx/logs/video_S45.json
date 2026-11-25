@@ -1,0 +1,29 @@
+{
+  "text": "I'll generate the video with the arguments you gave./Users/boliu/.grok/sessions/%2FUsers%2Fboliu%2Fplay-forme%2Fgx/01a1d46a-a09d-7310-aec4-d35883cafdc7/videos/1.mp4",
+  "stopReason": "end_turn",
+  "sessionId": "01a1d46a-a09d-7310-aec4-d35883cafdc7",
+  "requestId": "4bcada69-5e1b-425f-af27-8332b88d0e73",
+  "cwd": "/Users/boliu/play-forme/gx",
+  "thought": "I will call the reference_to_video tool exactly once with the specified arguments.",
+  "usage": {
+    "input_tokens": 1587,
+    "cache_read_input_tokens": 16768,
+    "cache_creation_input_tokens": 0,
+    "output_tokens": 947,
+    "reasoning_tokens": 530,
+    "total_tokens": 19302
+  },
+  "num_turns": 2,
+  "total_cost_usd": 0.0117232,
+  "total_cost_usd_ticks": 117232000,
+  "modelUsage": {
+    "grok-4.7-build-fast": {
+      "inputTokens": 1587,
+      "outputTokens": 947,
+      "cacheReadInputTokens": 16768,
+      "cacheCreationInputTokens": 0,
+      "modelCalls": 2,
+      "costUSD": 0.0117232
+    }
+  }
+}

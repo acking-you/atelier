@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d4ce-68fe-7b03-9f80-e201559bca97"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll create one closer view of the ridge using the three attached references.\n"}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":51753,"cached_input_tokens":38272,"cache_write_input_tokens":0,"output_tokens":665,"reasoning_output_tokens":0}}

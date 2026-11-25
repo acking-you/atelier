@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d4a2-7e65-7e32-a959-dcde489cc6d2"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll generate one 16:9 sprite sheet using the attached character design and five seated poses.\n"}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":41904,"cached_input_tokens":33152,"cache_write_input_tokens":0,"output_tokens":465,"reasoning_output_tokens":0}}

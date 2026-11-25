@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d4d8-431d-72b2-8b99-419353492670"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll use the image tool to close the dark-hooded child’s eyes and preserve the rest of the picture.\n"}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":41355,"cached_input_tokens":32896,"cache_write_input_tokens":0,"output_tokens":266,"reasoning_output_tokens":0}}

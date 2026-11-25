@@ -1,0 +1,15 @@
+# environments and caches
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# renders and working files: produced from the source, never committed
+output/
+_review/
+_tmp/
+*.mp4
+*.mov
+*.webm
+*.mkv
+*.wav

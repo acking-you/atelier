@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d49d-6ca2-79f0-b33d-ee7d4af3ed8d"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll generate the character sheet as one 16:9 image."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":39599,"cached_input_tokens":32000,"cache_write_input_tokens":0,"output_tokens":414,"reasoning_output_tokens":0}}

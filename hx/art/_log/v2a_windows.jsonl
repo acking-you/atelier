@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d4ca-07df-7572-958a-3dfc29b13472"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll generate one 16:9 image using both references, preserving the child and room.\n"}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":47910,"cached_input_tokens":36224,"cache_write_input_tokens":0,"output_tokens":699,"reasoning_output_tokens":0}}

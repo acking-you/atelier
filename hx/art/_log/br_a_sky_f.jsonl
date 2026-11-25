@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d4e5-09bf-7952-a19c-bc59fb6f28b7"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll use the image generation tool once to change only the birds’ wing positions.\n"}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":43161,"cached_input_tokens":34048,"cache_write_input_tokens":0,"output_tokens":322,"reasoning_output_tokens":0}}

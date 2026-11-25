@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d4cc-254a-7283-a914-a006adca2dfe"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll generate one 16:9 image using the three references, with the children seen from behind beneath the first pale tear in the storm clouds."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":51888,"cached_input_tokens":38400,"cache_write_input_tokens":0,"output_tokens":763,"reasoning_output_tokens":0}}

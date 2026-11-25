@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d4cb-2040-7991-84dc-e2bdd9f434cf"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll generate the closer sofa scene using both references, keeping the character and room consistent.\n"}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":47867,"cached_input_tokens":36224,"cache_write_input_tokens":0,"output_tokens":677,"reasoning_output_tokens":0}}

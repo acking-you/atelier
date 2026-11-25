@@ -1,0 +1,28 @@
+{
+  "text": "I'll generate the image with the exact prompt and references you specified./Users/boliu/.grok/sessions/%2FUsers%2Fboliu%2Fplay-forme%2Fgx/01a1d459-4cce-7ae2-b37e-084ee924f136/images/1.jpg",
+  "stopReason": "end_turn",
+  "sessionId": "01a1d459-4cce-7ae2-b37e-084ee924f136",
+  "requestId": "cc6fc7e2-29d2-4c55-b7eb-254d450eb0dc",
+  "cwd": "/Users/boliu/play-forme/gx",
+  "usage": {
+    "input_tokens": 1269,
+    "cache_read_input_tokens": 14976,
+    "cache_creation_input_tokens": 0,
+    "output_tokens": 579,
+    "reasoning_tokens": 167,
+    "total_tokens": 16824
+  },
+  "num_turns": 2,
+  "total_cost_usd": 0.00918,
+  "total_cost_usd_ticks": 91800000,
+  "modelUsage": {
+    "grok-4.7-build-fast": {
+      "inputTokens": 1269,
+      "outputTokens": 579,
+      "cacheReadInputTokens": 14976,
+      "cacheCreationInputTokens": 0,
+      "modelCalls": 2,
+      "costUSD": 0.00918
+    }
+  }
+}

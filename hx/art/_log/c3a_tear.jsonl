@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d4ab-1ec2-73f0-a63e-b52f18fd60bb"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll use the image generation tool once, with the character sheets as references."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":47706,"cached_input_tokens":34048,"cache_write_input_tokens":0,"output_tokens":571,"reasoning_output_tokens":0}}

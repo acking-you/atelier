@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d4a5-f0fe-77b0-a6d1-8ec8f5d20b67"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll generate one 16:9 pixel-art scene using the attached character design.\n"}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":43888,"cached_input_tokens":34176,"cache_write_input_tokens":0,"output_tokens":500,"reasoning_output_tokens":0}}

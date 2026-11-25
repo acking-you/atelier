@@ -1,0 +1,28 @@
+{
+  "text": "I'll generate the image with the prompt and aspect ratio you specified./Users/boliu/.grok/sessions/%2FUsers%2Fboliu%2Fplay-forme%2Fgx/01a1d450-9251-74b2-a1db-a3dbef9be940/images/1.jpg",
+  "stopReason": "end_turn",
+  "sessionId": "01a1d450-9251-74b2-a1db-a3dbef9be940",
+  "requestId": "823542a1-6324-400e-b790-0c54342f2185",
+  "cwd": "/Users/boliu/play-forme/gx",
+  "usage": {
+    "input_tokens": 6048,
+    "cache_read_input_tokens": 9472,
+    "cache_creation_input_tokens": 0,
+    "output_tokens": 467,
+    "reasoning_tokens": 127,
+    "total_tokens": 15987
+  },
+  "num_turns": 2,
+  "total_cost_usd": 0.01335112,
+  "total_cost_usd_ticks": 133511200,
+  "modelUsage": {
+    "grok-4.7-build-fast": {
+      "inputTokens": 6048,
+      "outputTokens": 467,
+      "cacheReadInputTokens": 9472,
+      "cacheCreationInputTokens": 0,
+      "modelCalls": 2,
+      "costUSD": 0.01335112
+    }
+  }
+}

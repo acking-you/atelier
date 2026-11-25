@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d4cb-36c2-79d2-a872-4ed2165c45e8"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll generate one 16:9 image, keeping the child and rainy street consistent with both references.\n"}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":46053,"cached_input_tokens":38144,"cache_write_input_tokens":0,"output_tokens":532,"reasoning_output_tokens":0}}

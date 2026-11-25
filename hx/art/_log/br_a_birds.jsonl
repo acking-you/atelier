@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d4a9-c29f-7031-9f8f-9275ce330428"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll generate the 16:9 scene once, keeping both characters faithful to the attached sheets.\n"}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":48086,"cached_input_tokens":40192,"cache_write_input_tokens":0,"output_tokens":711,"reasoning_output_tokens":0}}

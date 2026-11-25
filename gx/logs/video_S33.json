@@ -1,0 +1,29 @@
+{
+  "text": "I'll generate the video with the arguments you specified./Users/boliu/.grok/sessions/%2FUsers%2Fboliu%2Fplay-forme%2Fgx/01a1d465-db93-71b2-86ac-f8b11214d7b6/videos/1.mp4",
+  "stopReason": "end_turn",
+  "sessionId": "01a1d465-db93-71b2-86ac-f8b11214d7b6",
+  "requestId": "2a4d49c1-a99f-499e-a841-7d8ae17cbeb8",
+  "cwd": "/Users/boliu/play-forme/gx",
+  "thought": "I will call the reference_to_video tool exactly once with the specified arguments.\n\nI mapped the reference image indices. first_frame is IMAGE_0. The boy image is IMAGE_1. The girl image is IMAGE_2.",
+  "usage": {
+    "input_tokens": 7610,
+    "cache_read_input_tokens": 11008,
+    "cache_creation_input_tokens": 0,
+    "output_tokens": 1186,
+    "reasoning_tokens": 757,
+    "total_tokens": 19804
+  },
+  "num_turns": 2,
+  "total_cost_usd": 0.0189312,
+  "total_cost_usd_ticks": 189312000,
+  "modelUsage": {
+    "grok-4.7-build-fast": {
+      "inputTokens": 7610,
+      "outputTokens": 1186,
+      "cacheReadInputTokens": 11008,
+      "cacheCreationInputTokens": 0,
+      "modelCalls": 2,
+      "costUSD": 0.0189312
+    }
+  }
+}

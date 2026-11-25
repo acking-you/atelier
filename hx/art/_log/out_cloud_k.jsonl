@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d4d8-ae8b-7612-b6e1-e51b3c6afcce"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll use the image tool to close the child’s eyes while preserving the composition.\n"}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":43042,"cached_input_tokens":37504,"cache_write_input_tokens":0,"output_tokens":254,"reasoning_output_tokens":0}}

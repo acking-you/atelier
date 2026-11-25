@@ -1,0 +1,29 @@
+{
+  "text": "I'll generate the video with the arguments you provided./Users/boliu/.grok/sessions/%2FUsers%2Fboliu%2Fplay-forme%2Fgx/01a1d45c-8560-7ac2-96ed-12ea58817674/videos/1.mp4",
+  "stopReason": "end_turn",
+  "sessionId": "01a1d45c-8560-7ac2-96ed-12ea58817674",
+  "requestId": "4ed4ec0f-9201-4999-a1e2-c2edb68dea90",
+  "cwd": "/Users/boliu/play-forme/gx",
+  "thought": "I will call the reference_to_video tool exactly once with the specified arguments.\n\nThe prompt is safe. It describes a non-sexual anime dream scene with a boy and masked children.",
+  "usage": {
+    "input_tokens": 12958,
+    "cache_read_input_tokens": 5632,
+    "cache_creation_input_tokens": 0,
+    "output_tokens": 1245,
+    "reasoning_tokens": 861,
+    "total_tokens": 19835
+  },
+  "num_turns": 2,
+  "total_cost_usd": 0.02461736,
+  "total_cost_usd_ticks": 246173600,
+  "modelUsage": {
+    "grok-4.7-build-fast": {
+      "inputTokens": 12958,
+      "outputTokens": 1245,
+      "cacheReadInputTokens": 5632,
+      "cacheCreationInputTokens": 0,
+      "modelCalls": 2,
+      "costUSD": 0.02461736
+    }
+  }
+}

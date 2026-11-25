@@ -1,0 +1,10 @@
+# Python 3.14. Install with: python -m venv .venv && .venv/bin/pip install -r requirements.txt
+skia-python==144.1
+numpy==2.5.4
+scipy==1.18.1
+pillow==13.0.0
+imageio-ffmpeg==0.8.1
+# analysis of a new recording (hx/analyze.py)
+librosa==1.0.0
+soundfile==0.14.0
+pyloudnorm==0.2.0

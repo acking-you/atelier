@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d4d6-48e4-7961-a96b-0c35be19b6c2"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll use the image generation tool once to adjust the child’s walking pose and its reflection.\n"}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":43265,"cached_input_tokens":33792,"cache_write_input_tokens":0,"output_tokens":339,"reasoning_output_tokens":0}}

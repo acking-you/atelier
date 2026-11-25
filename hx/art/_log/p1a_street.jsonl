@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d4a5-0822-75d0-b358-521d501e0fd0"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll generate the scene using the attached character sheet as the reference."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":43857,"cached_input_tokens":38016,"cache_write_input_tokens":0,"output_tokens":507,"reasoning_output_tokens":0}}

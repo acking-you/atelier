@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d49d-6ca2-7923-a9c5-5f7bc04a6b40"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll generate the character sheet using the built-in image tool.\n"}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":39523,"cached_input_tokens":31872,"cache_write_input_tokens":0,"output_tokens":362,"reasoning_output_tokens":0}}

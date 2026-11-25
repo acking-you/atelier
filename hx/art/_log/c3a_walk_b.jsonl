@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d4d3-392f-7363-b342-9c786993c75e"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll make one image edit, changing only the children’s walking poses and preserving the rest as closely as possible."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":41565,"cached_input_tokens":35968,"cache_write_input_tokens":0,"output_tokens":342,"reasoning_output_tokens":0}}

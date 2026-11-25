@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1d4ca-07df-7563-928e-d84e930aea37"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll generate one 16:9 image using both references, preserving the child and room while adding the sunset beam and phone light.\n"}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"done"}}
+{"type":"turn.completed","usage":{"input_tokens":47962,"cached_input_tokens":40064,"cache_write_input_tokens":0,"output_tokens":622,"reasoning_output_tokens":0}}

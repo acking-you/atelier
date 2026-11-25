@@ -1,0 +1,12 @@
+# Text stays LF on every platform.
+* text=auto eol=lf
+
+# Media and data blobs are binary: no diffs, no line-ending conversion.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.mp3 binary
+*.m4a binary
+*.flac binary
+*.sf2 binary
