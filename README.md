@@ -25,7 +25,8 @@
 
 Every work here is source, not footage: the code that draws it, the notes that
 decide it, and the material it answers to. A film renders again from this
-repository, frame for frame; the videos themselves are not stored.
+repository, frame for frame; the videos themselves are not in git but archived
+in Google Drive under `atelier/<work>/`.
 
 ## Works
 
@@ -72,7 +73,7 @@ in the lyric lines.
 
 | | |
 | --- | --- |
-| **Works** | [《好想爱这个世界啊》](docs/works/haoxiang.md) |
+| **Works** | [《好想爱这个世界啊》](docs/works/haoxiang.md) · [《我离孤单几公里》](docs/works/woligudan.md) |
 | **hx film** | [Design](hx/DESIGN.md) · [Storyboard](hx/STORYBOARD.md) · [Chalk kit](hx/chalk/README.md) · [Scene guide](hx/scenes/README.md) |
 | **Shared code** | [`mv/engine`](mv/engine/__init__.py) colour and primitives · [`mv/encode.py`](mv/encode.py) encoding |
 

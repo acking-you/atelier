@@ -7,7 +7,8 @@ Rules for people and agents are in [AGENTS.md](../AGENTS.md).
 
 | Page | Covers |
 | --- | --- |
-| [《好想爱这个世界啊》](works/haoxiang.md) | material, versions tried, render commands |
+| [《好想爱这个世界啊》](works/haoxiang.md) | material, versions tried, render commands, public video links |
+| [《我离孤单几公里》](works/woligudan.md) | the first films (source outside this repository), public video links |
 
 ## 《好想爱这个世界啊》 film (`hx/`)
 

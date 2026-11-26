@@ -32,8 +32,26 @@ Version 4's soft spots are listed at the end of [hx/DESIGN.md](../../hx/DESIGN.m
 .venv/bin/python -m hx.render --out output/haoxiang-mv-lyrics.mp4 --audio --lyrics reference/haoxiangaizhegeshijie/haoxiangaizhegeshijie.lrc
 ```
 
-1920x1080, 30 fps, 7766 frames. The renders delivered so far live outside
-git on the owner's machine (`play-forme/output/haoxiang-*.mp4`).
+1920x1080, 30 fps, 7766 frames.
+
+## Watch
+
+The renders are archived in Google Drive under `atelier/haoxiang/` (rclone
+remote `gdrive:`), outside git. Every link below is public: anyone with it can
+watch and download without signing in. Drive shows a "can't scan for viruses"
+notice before downloading large files, and limits a file for a while after
+heavy traffic.
+
+| Version | Without lyrics | With lyrics |
+| --- | --- | --- |
+| **4, the delivered film** (chalk, one continuous drawing) | [haoxiang-mv-v4.mp4](https://drive.google.com/file/d/1KiGRqpPndYERahEo076S2xb1uUQV0fIN/view) | [haoxiang-mv-v4-lyrics.mp4](https://drive.google.com/file/d/1x_qGl71DFQeqi1uZL4X_y15K2rs3EAfG/view) |
+| 3 (generated pictures) | [haoxiang-mv-v3.mp4](https://drive.google.com/file/d/1-PxAmQcDrkgYclGh4tFL_GiyWEIk2zIK/view) | |
+| 1-2 (code-drawn paper-cut figures) | [haoxiang-mv.mp4](https://drive.google.com/file/d/1UW2TSr4pQGr42YEEQmBVzP-MlebOB8M8/view) | [haoxiang-mv-lyrics.mp4](https://drive.google.com/file/d/1A4zTKYJwn6qnUnAPBIUf-x_L5OtSRqDs/view) |
+| anime cut (generated video) | [haoxiang-anime.mp4](https://drive.google.com/file/d/1QHuf3Xm1sR5cfw4ISTQS8YajHa3emPI_/view) | |
+
+Drafts (960x540): [version 3](https://drive.google.com/file/d/1wLfQySsLKLO09MDk5doRNLNM689HbtzM/view) ·
+[version 1-2](https://drive.google.com/file/d/1nEU4Qa3OFNz_7GN1KorxOgHBmqZVXAw_/view) ·
+[anime cut](https://drive.google.com/file/d/14lvUQy8pRwzVTbKuSx40JlRJ6PjDNKKf/view).
 
 ## Further reading
 

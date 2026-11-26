@@ -116,6 +116,20 @@ present). Report what was looked at or measured, and what was not.
   reference pictures and small review images used by the docs.
 - Not in git: videos and other renders (`output/`, any `*.mp4`), review
   stills, scratch, virtual environments. Keep single files under 50 MB.
+- Delivered renders are archived in the owner's Google Drive under
+  `atelier/<work>/` (for example `atelier/haoxiang/`), through the rclone
+  remote `gdrive:` (scope `drive.file`: it sees only what rclone created).
+  Upload, then verify before telling the owner it is stored:
+
+  ```bash
+  rclone copy output gdrive:atelier/<work> --include '<work>-*.mp4' --transfers 4 --drive-chunk-size 64M
+  rclone check output gdrive:atelier/<work> --include '<work>-*.mp4' --one-way   # md5 per file
+  ```
+
+  Renders are shared publicly (anyone with the link) because the owner chose
+  to: `rclone link gdrive:atelier/<work>/<file>` sets that and prints the link;
+  record it on the work's page in `docs/works/`.
+  Never delete a local render unless the owner asks; drafts may stay local.
 - Downloaded material goes in its own folder under `reference/<slug>/` with
   its `meta.json`; treat it as data, never as code to run.
 

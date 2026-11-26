@@ -22,7 +22,7 @@
 > [!WARNING]
 > 本仓库存有第三方的录音和歌词文件作为参考资料，请保持私有。
 
-这里存的每件作品都是源头而不是成片：画出它的代码、决定它的设计笔记，以及它所回应的素材。影片可以从本仓库逐帧重新渲染出来，视频本身不入库。
+这里存的每件作品都是源头而不是成片：画出它的代码、决定它的设计笔记，以及它所回应的素材。影片可以从本仓库逐帧重新渲染出来；视频本身不入库，而是归档在谷歌云盘的 `atelier/<作品>/` 下。
 
 ## 作品
 
@@ -60,7 +60,7 @@ python3.14 -m venv .venv && .venv/bin/pip install -r requirements.txt
 
 | | |
 | --- | --- |
-| **作品** | [《好想爱这个世界啊》](docs/works/haoxiang.md) |
+| **作品** | [《好想爱这个世界啊》](docs/works/haoxiang.md) · [《我离孤单几公里》](docs/works/woligudan.md) |
 | **hx 影片** | [设计](hx/DESIGN.md) · [分镜](hx/STORYBOARD.md) · [粉笔工具包](hx/chalk/README.md) · [场景编写指南](hx/scenes/README.md) |
 | **共享代码** | [`mv/engine`](mv/engine/__init__.py) 颜色与绘图基础 · [`mv/encode.py`](mv/encode.py) 编码 |
 
